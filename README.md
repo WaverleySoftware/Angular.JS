@@ -10,7 +10,7 @@ framework and a bunch of development and testing tools for instant web developme
 
 ## Getting Started
 
-To get you started you can simply clone the Angular-starter repository and install the dependencies:
+To get you started you can simply clone the Angular-starter repository and install the dependencies
 
 ### Prerequisites
 
@@ -237,7 +237,7 @@ applicable. Usually this is done by hosting the files by the backend server or t
 reverse-proxying the backend server(s) and webserver(s).
 
 
-## Running the Static code analyser
+### Running the Static code analyser
 
 You can start this with `npm run lint` comant trough cmd
 
